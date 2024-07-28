@@ -1,0 +1,130 @@
+/* Basic reset */
+body, h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;  /* Change font */
+  color: #333;  /* Change font color */
+}
+
+/* Body styling */
+body {
+  line-height: 1.6;  /* Increase line spacing */
+  padding: 20px;
+  background-color: #f4f4f9;  /* Light background color */
+  text-align: left;
+}
+
+/* Main container styling */
+.main-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;  /* White background for content */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  /* Light shadow for a 3D effect */
+  border-radius: 8px;  /* Rounded corners */
+}
+
+/* Header styling */
+h1, h2, h3 {
+  color: #2c3e50;  /* Darker color for headings */
+  margin-bottom: 15px;
+  line-height: 1.2;
+}
+
+/* Paragraph styling */
+p {
+  margin-bottom: 15px;
+  text-align: justify;  /* Justify text for a cleaner look */
+}
+
+/* Image styling */
+img {
+  max-width: 30%;  /* Ensure the image scales to fit the container */
+  height: auto;     /* Maintain aspect ratio */
+  border-radius: 8px;  /* Rounded corners for images */
+}
+
+/* Specific styling for images with a class */
+img.small {
+  max-width: 150px;  /* Adjust the width as needed */
+  height: auto;      /* Maintain aspect ratio */
+}
+
+img.medium {
+  max-width: 300px;  /* Adjust width for medium-sized images */
+  height: auto;      /* Maintain aspect ratio */
+}
+
+/* Link styling */
+a {
+  color: #3498db;  /* Blue color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* List styling */
+ul, ol {
+  margin: 15px 0;
+  padding-left: 20px;
+}
+
+/* Navigation bar styling */
+.navbar {
+  background: #2c3e50;  /* Dark background for the navbar */
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.navbar a {
+  color: #ecf0f1;  /* Light color for navbar links */
+  padding: 8px 15px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #3498db;  /* Blue background on hover */
+  border-radius: 4px;
+}
+
+/* Form styling for Contact Page */
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;  /* White background for the form */
+  border-radius: 8px;  /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  /* Light shadow */
+}
+
+form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+form input[type="submit"],
+form input[type="reset"] {
+  background: #3498db;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+form input[type="submit"]:hover,
+form input[type="reset"]:hover {
+  background: #2980b9;
+}

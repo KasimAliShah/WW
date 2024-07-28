@@ -1,0 +1,31 @@
+## Get in Touch
+
+Feel free to reach out if you have any questions or need further information. You can contact me through the following methods:
+
+### Email
+
+-   **Email Address**: walter.white\@gmail.com
+
+### Social Media
+
+-   **LinkedIn**: [Walter White](https://www.linkedin.com/in/walter-white-9246a02a4/)
+-   **Twitter**: [WalterWhite](https://x.com/WalterWhite1203)
+
+### Mailing Address
+
+-   **Address**: 308 Negra Arroyo Lane, Albuquerque, NM, USA.
+
+## Contact Form
+
+If you prefer, you can also fill out the contact form below:
+
+<form action="mailto:walter.white@gmail.com" method="post" enctype="text/plain">
+
+<label for="name">Name:</label><br> <input type="text" id="name" name="name" required><br><br> <label for="email">Email:</label><br> <input type="email" id="email" name="email" required><br><br> <label for="message">Message:</label><br>
+
+```{=html}
+<textarea id="message" name="message" rows="4" required></textarea>
+```
+<br><br> <input type="submit" value="Send"> <input type="reset" value="Reset">
+
+</form>

@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Walter Hartwell White"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: career.qmd
+        text: Career
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: default
+    css: styles.css
+    toc: false
+
+editor: visual

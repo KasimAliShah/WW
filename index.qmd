@@ -1,0 +1,15 @@
+# Welcome
+
+Hello, I'm Walter White. I teach chemistry at the local high school. I've dedicated my life to education and providing for my family. If you need any help with chemical equations or reactions, I'm your guy.
+
+![](Heisenberg.jpg){.small}
+
+## About Me
+
+In my career, I have navigated diverse paths and achieved noteworthy milestones. As a chemist, I made significant contributions to the field and co-founded Gray Matter Technologies, though I left before its meteoric rise. As a high school chemistry teacher, I was recognized for my innovative teaching methods and dedication to my students. In an unexpected turn, I ventured into the methamphetamine industry, where I applied my scientific expertise to create "Blue Sky," renowned for its unparalleled purity. My strategic acumen enabled me to build a formidable drug empire and exert considerable influence in the criminal world. Throughout it all, my primary motivation was securing a future for my family, a goal that shaped my actions and legacy.
+
+## Highlights
+
+-   **Co-Founder of Gray Matter Technologies.**
+-   **Renowned High School Chemistry Teacher.**
+-   **Creator of "Blue Sky" Methamphetamine.**
